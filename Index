@@ -1,8 +1,51 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Micah Levason: Welcome to Micah's website.</title>
+	<title>Micah Levason</title>
+    <meta name="description" content="Welcome to Micah Levason's website. You can learn all about Micah and contact him here">
+    <meta name="Keywords" content="Micah Levason">
+    <meta name="Author" content="Micah Levason">
 </head>
+
 <body>
+	<ul>
+		<li><a href="#About">About Micah</a></li>
+    	<li><a href="#hobbies">My Hobbies</a></li>
+    	<li><a href="#contact">Get in touch</a></li>
+	</ul>
+<div id=Main>
+	<h1><strong>Micah Levason's Website</strong></h1>
+</div>
+    <div id="About Micah">
+    <h2 id="About">About Micah Levason</h2>
+    	<p>Hi! My name is <strong>Micah Levason</strong>! I am a website and application developer who has a passion for seeing my clients vision come to life. In my spare time I love to enjoy nature while hiking and hammocking with my wife Stephanie.</p>
+        <h2> Some examples of webistes and web applications that I have built</h2>
+       <ul>
+        <li><a href="https://sierrapodiatry.com"<span>Sierra Podiatry</span></a></li>
+        <li><a href="https://brandmeonline.io"<span>Brand Me Online</span></a></li>
+        <li><a href="https://builtbymicah.com"<span>Built by Micah</span></a></li>
+        </ul>
+    </div>
+    
+    </div>
+    <h2>My Hobbies</h2>
+    	<span id="hobbies">Some of my favorite hobbies:</span>
+    	<ul>
+    	<li>Hiking</li>
+    	<li>Camping</li>
+    	<li>Drinking Whiskey</li>
+    	<li>Watching Movies</li>
+    	<li>Tinkering with technology</li>
+    	<li>Spending time with my wife and family</li>
+    </ul>
+    </div>
+    <div id="contact">
+    <h2 id="contact">Get in touch</h2>
+    <ul>
+    <li>Phone: 971-808-2009</li>
+    <li>Email: micah.levason@gmail.com</li>
+    <li>Facebook: <a href="www.facebook.com/officialmicahlevason"<span>facebook.com/micah<span></a></li>
+    </ul>
 </body>
+
 </html>
